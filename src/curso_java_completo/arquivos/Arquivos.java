@@ -1,4 +1,4 @@
-package curso_java_completo;
+package curso_java_completo.arquivos;
 
 import java.io.File;
 import java.io.IOException;
